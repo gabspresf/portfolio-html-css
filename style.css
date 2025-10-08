@@ -20,3 +20,19 @@ body {
     align-items: center;
     justify-content: space-between;
 }
+
+.apresentacao__conteudo {
+    width: 615px; /* tamanho do conteúdo */
+}
+
+.apresentacao__conteudo__titulo {
+    font-size: 36px; /* tamanho da fonte do título */
+}
+
+.apresentacao__conteudo__texto {
+    font-size: 24px; /* tamanho da fonte do parágrafo */
+}
+
+.imagem {
+    width: 450px; /* tamanho da imagem */
+}
