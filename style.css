@@ -20,7 +20,7 @@ body {
 .apresentacao { /* flexbox (organizar os elementos na página) */
                 /* ajustar o espaçamento entre a seção de texto e a imagem; adicionar margens para evitar
                 que os elementos fiquem colados nas bordas da tela */
-    margin: 10%;
+    margin: 10% 15%;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -28,6 +28,9 @@ body {
 
 .apresentacao__conteudo {
     width: 615px; /* tamanho do conteúdo */
+    display: flex;
+    flex-direction: column;
+    gap: 40px; /* especifica no CSS o tamanho dos espaços entre linhas e colunas */
 }
 
 .apresentacao__conteudo__titulo {
