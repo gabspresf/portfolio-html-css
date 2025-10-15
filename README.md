@@ -1,3 +1,3 @@
 ## Meu prmeiro portfólio em HTML e CSS (em andamento).
 
-Olá! Este é o repositório do meu primeiro projeto em HTML e CSS, de um portfólio, do curso da Alura de front-end.
+Olá! Este é o repositório do meu primeiro projeto em HTML e CSS: um portfólio, da formação de Front-End da Alura!
