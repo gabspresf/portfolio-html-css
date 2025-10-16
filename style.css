@@ -58,7 +58,9 @@ body {
 }
 
 .apresentacao__links__link { /* estilizando os botões */
-    /* background-color: #22d4fd; */
+    display: flex;
+    justify-content: center;
+    gap: 16px;
     color: #f6f6f6;
     border: 2px solid rgb(255,0,0);
     width: 378px;
