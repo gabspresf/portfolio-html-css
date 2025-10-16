@@ -51,12 +51,19 @@ body {
     gap: 32px;
 }
 
+.apresentacao__links__subtitulo {
+    font-family: "Krona One", sans-serif;
+    font-weight: 400;
+    font-size: 24px;
+}
+
 .apresentacao__links__link { /* estilizando os botões */
-    background-color: #22d4fd;
-    color: black;
-    width: 280px;
+    /* background-color: #22d4fd; */
+    color: #f6f6f6;
+    border: 2px solid rgb(255,0,0);
+    width: 378px;
     text-align: center;
-    border-radius: 16px;
+    border-radius: 8px;
     font-size: 24px;
     font-weight: 600;
     font-family: "Montserrat", sans-serif;
