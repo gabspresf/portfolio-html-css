@@ -24,23 +24,23 @@ body {
 }
 
 .apresentacao__conteudo {
-    width: 615px; /* tamanho do conteúdo */
+    width: 615px;
     display: flex;
     flex-direction: column;
     gap: 40px; /* especifica no CSS o tamanho dos espaços entre linhas e colunas */
 }
 
 .apresentacao__conteudo__titulo {
-    font-size: 36px; /* tamanho da fonte do título */
-    font-family: "Krona One", sans-serif; /* tipo da fonte */
+    font-size: 36px;
+    font-family: "Krona One", sans-serif;
 }
 
 .apresentacao__conteudo__texto {
-    font-size: 24px; /* tamanho da fonte do parágrafo */
-    font-family: "Montserrat", sans-serif /* tipo da fonte */
+    font-size: 24px;
+    font-family: "Montserrat", sans-serif;
 }
 
-.apresentacao__links { /* utilizando flexbox nos botões */
+.apresentacao__links {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
@@ -54,7 +54,7 @@ body {
     font-size: 24px;
 }
 
-.apresentacao__links__link { /* estilizando os botões */
+.apresentacao__links__link {
     display: flex;
     justify-content: center;
     gap: 16px;
@@ -86,7 +86,7 @@ body {
 }
 
 .imagem {
-    width: 450px; /* tamanho da imagem */
+    width: 450px;
 }
 
 /* Ao definir o valor da propriedade display de um elemento como flex, criamos um contêiner flex, ou seja, passamos a utilizar o Flexbox.
