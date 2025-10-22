@@ -57,6 +57,11 @@ body {
     font-family: "Montserrat", sans-serif;
 }
 
+.apresentacao__conteudo__texto a{
+    text-decoration: none;
+    color: red;
+}
+
 .apresentacao__links {
     display: flex;
     flex-direction: column;
