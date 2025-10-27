@@ -66,9 +66,8 @@ Você precisará apenas de um navegador web moderno (Chrome, Firefox, Edge, etc.
 
 ## 🤝 Desenvolvedora
 
-| **[Gabriela Prestes Farias]** |
-| :--- | :--- |
-| **Função:** | Desenvolvedora Front-End Web |
-| **LinkedIn:** | [https://www.linkedin.com/in/gabriela-prestes-farias/] |
+**Gabriela Prestes Farias**
+| Desenvolvedora Front-End Web |
+**LinkedIn:** https://www.linkedin.com/in/gabriela-prestes-farias/
 
 ---
