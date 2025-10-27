@@ -129,8 +129,8 @@ body {
 
     .cabecalho__menu {
         justify-content: space-between;
-        gap: 30px;
     }
+    
     .cabecalho__menu__link {
         font-size: 1.2rem;
     }
