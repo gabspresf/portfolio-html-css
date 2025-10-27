@@ -1,18 +1,8 @@
-# [Portfólio Gabriela Prestes]
+# Portfólio Gabriela Prestes
 
-![Badge de Status do Projeto](https://img.shields.io/badge/Status-Concluído-brightgreen)
-![Badge de Tecnologias](https://img.shields.io/badge/Tecnologias-HTML%20%7C%20CSS-blue)
-[![Vercel Deployment](https://img.shields.io/badge/Deploy-Vercel-black?logo=vercel)](https://ss-hazel.vercel.app)
+> Meu primeiro projeto em HTML e CSS, sendo ele um portfólio moderno e responsivo, desenvolvido através dos cursos de Front-End da Alura!
 
-> Meu primeiro projeto em HTML e CSS, sendo ele um portfólio moderno e responsivo, desenvolvido através dos cursos de Front-end da Alura!
-
----
-
-## 💻 Visualização do Projeto
-
-![Captura de tela da página inicial do Portfólio, destacando a seção de apresentação com a foto da desenvolvedora, o título de impacto e os links para redes.](https://lh3.googleusercontent.com/gg/AIJ2gl8jUB5NDTimIdWNoM7z5Vu66b9yGA5FUAvnUKpFKiLCbdeJJttmvdHqgRS7smyvgejH63Tb3Q5m4NBi4ZdVwqe6hIUScnNnoKEwtiEVLVWQ82e8tDMAfU3ktGBYwVirIKRoZOgbrgxfCMdksvcn8278toGM6M2FIIMnff9ExgZszYjxVwBwKSeB31lvgmTcHBTDzlZbmuMCjdp4mX-Cfzu1v7f77eV-IwzfMEr3gRTEyRDJyMlABtJAZvNrwxN1A9Xzmp5QyiHVoLsMaYwyvQ5h-iM6gphYwoE=d)
-
-**Acesse o projeto online:** [ss-hazel.vercel.app](http://127.0.0.1:5500/portfolio-html-css/index.html)
+**Acesse o projeto online:** http://127.0.0.1:5500/portfolio-html-css/index.html
 
 ---
 
