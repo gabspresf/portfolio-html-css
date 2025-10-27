@@ -128,39 +128,13 @@ body {
     }
 
     .cabecalho__menu {
-        justify-content: space-between;
+        justify-content: center;
     }
     
-    .cabecalho__menu__link {
-        font-size: 1.2rem;
-    }
-
     .apresentacao {
-        padding: 5%, 5%;
         flex-direction: column-reverse;
-    }
-
-    .apresentacao__links__navegacao {
-        width: 100%;
-        max-width: 350px;
-    }
-
-    .apresentacao__conteudo__titulo {
-        font-size: 1.18rem;
     }
 
     .apresentacao__conteudo {
         width: auto;
-    }
-
-    .apresentacao__links {
-        width: 100%;
-        align-items: stretch;
-    }
-
-    .apresentacao__imagem {
-        width: 100%;
-        max-width: 300px;
-        height: auto;
-    }
 }
