@@ -128,7 +128,7 @@ body {
     }
 
     .cabecalho__menu {
-        justify-content: center;
+        justify-content: space-between;
         gap: 30px;
     }
     .cabecalho__menu__link {
