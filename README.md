@@ -1,6 +1,6 @@
 # Portfólio da Gabriela Prestes
 
-Olá! Este é o meu primeiro projeto em HTML e CSS, sendo ele um portfólio moderno e responsivo, desenvolvido através dos cursos de Front-end da Alura!
+Olá! Este é o meu primeiro projeto em HTML e CSS, sendo ele um portfólio moderno e responsivo, desenvolvido através dos cursos de Front-End da Alura!
 
 
 **Acesse o projeto online:** https://portfolio-html-css-hazel.vercel.app
@@ -25,7 +25,7 @@ Olá! Este é o meu primeiro projeto em HTML e CSS, sendo ele um portfólio mode
 ## 💻 Desenvolvido por:
 
 **Gabriela Prestes Farias**
-| Desenvolvedora Front-end Web |
+| Desenvolvedora Front-End Web |
 **LinkedIn:** https://www.linkedin.com/in/gabriela-prestes-farias/
 
 ---
