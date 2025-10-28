@@ -1,4 +1,4 @@
-# Portfólio Gabriela Prestes
+# Portfólio da Gabriela
 
 Olá! Este é o meu primeiro projeto em HTML e CSS, sendo ele um portfólio moderno e responsivo, desenvolvido através dos cursos de Front-End da Alura!
 
@@ -6,11 +6,7 @@ Olá! Este é o meu primeiro projeto em HTML e CSS, sendo ele um portfólio mode
 
 ---
 
-## 🎯 Objetivo e Destaques Técnicos
-
-Este projeto serve como meu cartão de visitas, criado para exibir minhas habilidades de desenvolvimento e a capacidade de construir interfaces de usuário de alta qualidade.
-
-**Destaques:**
+## 🎯 Destaques
 
 * **Responsividade:** Uso de *Media Queries* e unidades relativas (`rem`, `%`) para garantir que o layout se adapte perfeitamente a todos os dispositivos (desktop, tablet e mobile).
 * **Design Clean e Acessível:** Alto contraste (Black & Red) e uso de tipografia moderna (Krona One e Montserrat) para uma experiência de usuário clara e agradável.
@@ -19,15 +15,9 @@ Este projeto serve como meu cartão de visitas, criado para exibir minhas habili
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## 🛠️ Tecnologias utilizadas
 
-Este projeto foi construído puramente com:
-
-| Tecnologia | Descrição |
-| :--- | :--- |
-| **HTML5** | Estrutura semântica e acessível. |
-| **CSS3** | Estilização, layout Flexbox e responsividade com Media Queries. |
-| **Vercel** | Hospedagem e *deployment* contínuo. |
+**HTML5** e **CSS3**.
 
 ---
 
