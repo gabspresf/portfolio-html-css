@@ -19,7 +19,7 @@ Olá! Este é o meu primeiro projeto em HTML e CSS, sendo ele um portfólio mode
 
 ## 🛠️ Tecnologias utilizadas
 
-**HTML** e **CSS**
+**HTML5** e **CSS3**
 
 ---
 
