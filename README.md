@@ -2,8 +2,6 @@
 
 Olá! Este é o meu primeiro projeto em HTML e CSS, sendo ele um portfólio moderno e responsivo, desenvolvido através dos cursos de Front-end da Alura!
 
-![Vídeo do portfólio funcionando](https://github.com/user-attachments/assets/ead3ef7c-82fc-43a0-b540-fb12f76965a9)
-
 **Acesse o projeto online:** https://portfolio-html-css-hazel.vercel.app
 
 ---
@@ -23,10 +21,14 @@ Olá! Este é o meu primeiro projeto em HTML e CSS, sendo ele um portfólio mode
 
 ---
 
+## 📹 Demonstração do Projeto
+
+![Vídeo do portfólio funcionando](https://github.com/user-attachments/assets/ead3ef7c-82fc-43a0-b540-fb12f76965a9)
+
+---
+
 ## 💻 Desenvolvido por:
 
 **Gabriela Prestes Farias**
 | Desenvolvedora Front-end |
 **LinkedIn:** https://www.linkedin.com/in/gabriela-prestes-farias/
-
----
