@@ -21,12 +21,6 @@ Olá! Este é o meu primeiro projeto em HTML e CSS, sendo ele um portfólio mode
 
 ---
 
-## 📹 Demonstração do Projeto
-
-![Vídeo do portfólio funcionando](https://github.com/user-attachments/assets/ead3ef7c-82fc-43a0-b540-fb12f76965a9)
-
----
-
 ## 💻 Desenvolvido por:
 
 **Gabriela Prestes Farias**
