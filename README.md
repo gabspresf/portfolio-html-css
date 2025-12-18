@@ -4,11 +4,11 @@
 
 ## 💻 Sobre o projeto
 
-Este é o meu primeiro projeto em HTML e CSS, sendo ele um portfólio pessoal, desenvolvido através dos meus estudos da formação front-end da Alura!
+Este é o meu primeiro projeto em HTML e CSS, sendo ele um portfólio pessoal, desenvolvido através dos meus estudos pela formação front-end da Alura!
 
-O objetivo principal foi colocar em prática os fundamentos do desenvolvimento web, transformando um design (Figma) em código funcional, semântico e responsivo.
+O objetivo principal foi colocar em prática os fundamentos do desenvolvimento web, transformando um design do Figma em código funcional, semântico e responsivo.
 
-🔗 **Acesse o projeto online:** [Clique aqui para visualizar](https://portfolio-html-css-hazel.vercel.app/)
+🔗 **Acesse o projeto online:** (https://portfolio-html-css-hazel.vercel.app/)
 
 ---
 
@@ -30,14 +30,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias e conceitos:
 
 - [x] Navegação entre páginas (Home, Sobre mim, Currículo).
 - [x] Links interativos para redes sociais e contato.
-- [x] Efeitos visuais de `:hover` nos botões e menus.
 - [x] Layout totalmente adaptável para celulares, tablets e desktops.
-
----
-
-## 🎨 Layout
-
-O layout foi pensado para ser limpo e direto, com um tema escuro (Dark Mode) e detalhes em vermelho para destacar ações importantes.
 
 ---
 
