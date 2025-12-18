@@ -8,7 +8,7 @@ Este é o meu primeiro projeto em HTML e CSS, sendo ele um portfólio pessoal, d
 
 O objetivo principal foi colocar em prática os fundamentos do desenvolvimento web, transformando um design do Figma em código funcional, semântico e responsivo.
 
-🔗 **Acesse o projeto online:** (https://portfolio-html-css-hazel.vercel.app/)
+🔗 **Acesse o projeto online:** https://portfolio-html-css-hazel.vercel.app/
 
 ---
 
