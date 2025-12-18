@@ -10,7 +10,7 @@ O objetivo principal foi colocar em prática os fundamentos do desenvolvimento w
 
 🔗 **Acesse o projeto online:** [Clique aqui para visualizar](https://portfolio-html-css-hazel.vercel.app/)
 
----9
+---
 
 ## 🛠 Tecnologias Utilizadas
 
