@@ -2,10 +2,6 @@
 
 ![Badge Concluído](http://img.shields.io/static/v1?label=STATUS&message=CONCLUÍDO&color=GREEN&style=for-the-badge)
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/91038539/218329699-22c60805-4927-4638-b7c7-0361271f81d4.png" alt="Capa do Projeto - Substitua pelo link da sua imagem se quiser" width="100%">
-</p>
-
 ## 💻 Sobre o projeto
 
 Este é o meu primeiro projeto em HTML e CSS, sendo ele um portfólio pessoal, desenvolvido através dos meus estudos da formação front-end da Alura!
