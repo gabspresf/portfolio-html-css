@@ -1,29 +1,36 @@
-# Portfólio da Gabriela Prestes
+# 👩‍💻 Portfólio Pessoal
 
-Olá! Este é o meu primeiro projeto em HTML e CSS, sendo ele um portfólio moderno e responsivo, desenvolvido através dos cursos de Front-end da Alura!
+![Badge Concluído](http://img.shields.io/static/v1?label=STATUS&message=CONCLUÍDO&color=GREEN&style=for-the-badge)
 
-**Acesse o projeto online:** https://portfolio-html-css-hazel.vercel.app
+## 💻 Sobre o projeto
 
----
+Este é o meu primeiro projeto em HTML e CSS, sendo ele um portfólio pessoal, desenvolvido através dos meus estudos pela formação front-end da Alura!
 
-## 🎯 Destaques
+O objetivo principal foi colocar em prática os fundamentos do desenvolvimento web, transformando um design do Figma em código funcional, semântico e responsivo.
 
-* **Responsividade:** Uso de Media Queries e unidades relativas (`rem`, `%`) para garantir que o layout se adapte perfeitamente a todos os dispositivos (desktop, tablet e mobile).
-* **Design clean e acessível:** Alto contraste (Black & Red) e uso de tipografia moderna (Krona One e Montserrat) para uma experiência de usuário clara e agradável.
-* **Organização CSS:** Estrutura modular do CSS com variáveis (`:root`) para facilitar a manutenção e a customização das cores e fontes.
-* **Sintaxe semântica:** Uso de tags HTML semânticas (`<header>`, `<main>`, `<section>`, `<footer>`) para otimização SEO e acessibilidade.
+🔗 **Acesse o projeto online:** https://portfolio-html-css-hazel.vercel.app/
 
 ---
 
-## 🛠️ Tecnologias utilizadas
+## 🛠 Tecnologias Utilizadas
 
-**HTML5** e **CSS3**
+O projeto foi desenvolvido utilizando as seguintes tecnologias e conceitos:
+
+* **HTML5 Semântico:** Utilização de tags como `<header>`, `<main>`, `<section>` e `<footer>` para melhor acessibilidade e SEO.
+* **CSS3 Moderno:**
+    * **Flexbox:** Para alinhamento e distribuição dos elementos na tela.
+    * **Variáveis CSS (:root):** Para gerenciamento de cores e fontes, facilitando a manutenção do código.
+    * **Media Queries:** Para garantir a responsividade em dispositivos móveis (Mobile First).
+* **Git e GitHub:** Para versionamento e armazenamento do código.
+* **Vercel:** Para o deploy da aplicação.
 
 ---
 
-## 📹 Demonstração do Projeto
+## 📱 Funcionalidades
 
-![Vídeo do portfólio funcionando](https://github.com/user-attachments/assets/ead3ef7c-82fc-43a0-b540-fb12f76965a9)
+- [x] Navegação entre páginas (Home, Sobre mim, Currículo).
+- [x] Links interativos para redes sociais e contato.
+- [x] Layout totalmente adaptável para celulares, tablets e desktops.
 
 ---
 
