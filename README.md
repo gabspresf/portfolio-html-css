@@ -12,7 +12,7 @@ O objetivo principal foi colocar em prática os fundamentos do desenvolvimento w
 
 ---
 
-## 🛠 Tecnologias Utilizadas
+## 🛠 Tecnologias utilizadas
 
 O projeto foi desenvolvido utilizando as seguintes tecnologias e conceitos:
 
@@ -23,6 +23,12 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias e conceitos:
     * **Media Queries:** Para garantir a responsividade em dispositivos móveis (Mobile First).
 * **Git e GitHub:** Para versionamento e armazenamento do código.
 * **Vercel:** Para o deploy da aplicação.
+
+---
+
+## Demonstração do projeto
+
+![Demonstração do portfólio](https://github.com/user-attachments/assets/67100621-e353-4e69-97a5-aa1e223faae6)
 
 ---
 
