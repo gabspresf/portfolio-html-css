@@ -26,7 +26,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias e conceitos:
 
 ---
 
-## Demonstração do projeto
+## 📹 Demonstração do projeto
 
 ![Demonstração do portfólio](https://github.com/user-attachments/assets/7c299ef5-7370-4e1c-b895-cbd0575235fd)
 
@@ -37,7 +37,8 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias e conceitos:
 
 - [x] Navegação entre páginas (Home, Sobre mim, Currículo).
 - [x] Links interativos para redes sociais e contato.
-- [x] Layout totalmente adaptável para celulares, tablets e desktops.
+- [x] Layout adaptável para celulares, tablets e desktops.
+- [x] Efeito de *hover* nos botões.
 
 ---
 
