@@ -103,11 +103,6 @@ body {
     text-decoration: none;
 }
 
-.apresentacao__links__link:hover {
-    cursor: pointer;
-    background-color: var(--cor-hover);
-}
-
 .apresentacao__imagem {
     width: 50%
 }
@@ -120,6 +115,15 @@ body {
     font-family: var(--fonte-secundaria);
     font-size: 1.5rem;
     font-weight: 400;
+}
+
+.cabecalho__menu__link:hover {
+    color: var(--cor-secundaria);
+    cursor: pointer;
+}
+
+.apresentacao__links__navegacao:hover {
+    cursor: pointer;
 }
 
 @media (max-width: 1200px) {
