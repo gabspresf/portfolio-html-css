@@ -51,7 +51,7 @@ body {
     width: 50%;
     display: flex;
     flex-direction: column;
-    gap: 40px; /* especifica no CSS o tamanho dos espaços entre linhas e colunas */
+    gap: 40px;
 }
 
 .apresentacao__conteudo__titulo {
