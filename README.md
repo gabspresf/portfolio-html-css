@@ -28,7 +28,8 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias e conceitos:
 
 ## Demonstração do projeto
 
-![Demonstração do portfólio](https://github.com/user-attachments/assets/67100621-e353-4e69-97a5-aa1e223faae6)
+![Demonstração do portfólio](https://github.com/user-attachments/assets/7c299ef5-7370-4e1c-b895-cbd0575235fd)
+
 
 ---
 
